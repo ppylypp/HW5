@@ -1,3 +1,4 @@
+#updated code
 def main():
     print("--- АНКЕТА СТУДЕНТА (ДЗ) ---")
     name = input("Введіть ваше ім'я: ")
